@@ -2,6 +2,7 @@ import glob,os,sys
 import xml.etree.ElementTree as ET
 from building_height_check import read_xml,decimal_to_hex_long,decimal_to_hex_lat
 #This script is dedicated for map testing.
+#Test changes
 def GetDistance( lng1,  lat1,  lng2,  lat2):
     EARTH_RADIUS = 6378.137 
     from math import asin,sin,cos,radians,pow,sqrt
