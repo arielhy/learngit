@@ -1,0 +1,5 @@
+1.Better management of bugs, using Bugzilla instead of excels.
+easy to link to other bugs
+easy to add to different product
+2.Is it possible to do video call periodically?
+3.How to use each spring efficiently?
